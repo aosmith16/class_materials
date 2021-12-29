@@ -39,7 +39,7 @@ This is my rough overview of the 8 weeks of class topics, starting with class 1.
 1. Checking model assumptions    
     a. How to check model fit    
     b. Assumptions    
-    c Additivity of effects    
+    c. Additivity of effects    
     d. Independence of errors    
     e. Constant variance of errors    
     f. Normality of errors    
